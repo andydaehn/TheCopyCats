@@ -1,2 +1,2 @@
 # TheCopyCats
-A repository for our Chungu goals.
+A repository for our Chingu goals.
