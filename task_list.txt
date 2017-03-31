@@ -1,0 +1,16 @@
+High Level Task List
+Determine requirements
+  Stack Requirements --> Maybe start a slack pin for this conversation
+  API - Requirements --> Eldy will start looking into paypal api and developer key
+  Determine USERCASE --> Team Input....Maybe start a slack pin for this conversation
+Determine tasks
+Build
+Test
+Deploy!
+
+
+TASKS LIST-Detailed
+1 create initial html file
+2 create initial css file
+3 create initial javascript file
+
